@@ -1,0 +1,40 @@
+#ingredients {
+    background-color: #ffebee;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+#preparation {
+    background-color: #f3e5f5;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+
+#nutrition {
+    background-color: #e8f5e9;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 30px 0;
+}
+.code {
+    font-family: 'Courier New', monospace;
+    background-color: #263238;
+    color: #f8f8f2;
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    font-weight: bold;
+    color: #c62828;
+}
+
+
